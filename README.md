@@ -5,7 +5,7 @@
 <!-- Static Main Title (Fixed in place) -->
 <h3 align="center">
   <font face="Bookman Old Style" color="#FBBF24" size="5">
-    Software Engineer
+    Software Engineer · Full-Stack Developer · AI & Machine Learning Engineer
   </font>
 </h3>
 
