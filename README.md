@@ -56,13 +56,13 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api?username=boboshaline&show_icons=true&title_color=9B8AFB&icon_color=9B8AFB&text_color=E8E6F0&bg_color=0B0B14&hide_border=true&count_private=true&include_all_commits=true" alt="Shaline's GitHub Stats" />
-<img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api/top-langs/?username=boboshaline&layout=compact&title_color=9B8AFB&text_color=E8E6F0&bg_color=0B0B14&hide_border=true&hide=html,css" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shaline_wambui&show_icons=true&title_color=9B8AFB&icon_color=9B8AFB&text_color=E8E6F0&bg_color=0B0B14&hide_border=true&count_private=true" alt="Shaline's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaline_wambui&layout=compact&title_color=9B8AFB&text_color=E8E6F0&bg_color=0B0B14&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boboshaline&bg_color=0B0B14&color=9B8AFB&line=9B8AFB&point=E8E6F0&area=true&hide_border=true" alt="Shaline's GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaline_wambui&bg_color=0B0B14&color=9B8AFB&line=9B8AFB&point=E8E6F0&area=true&hide_border=true" alt="Shaline's GitHub Activity Graph" />
 </a>
 
 </div>
