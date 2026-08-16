@@ -1,19 +1,14 @@
 <div align="center">
 
-# <font color="#9B8AFB">Shaline Wambui</font>
+# <font color="#9B8AFB">Hello,I'm Shaline Wambui</font>
 
 ### **Software Engineer · Full-Stack Developer · AI & Machine Learning**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=9B8AFB&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Software+Engineer+%7C+Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+scalable+%26+intuitive+systems;Network+Engineering+%26+Infrastructure;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=9B8AFB&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Software+Engineer+%7C+Full-Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+scalable+%26+intuitive+systems;Network+Engineering+%26+Infrastructure;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="https://github.com/boboshaline">
-    <img src="https://img.shields.io/github/followers/boboshaline?label=Followers&style=for-the-badge&color=9B8AFB&labelColor=1A1128" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=boboshaline&label=Profile%20Views&color=9B8AFB&style=for-the-badge" />
-</p>
+
 
 </div>
 
