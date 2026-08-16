@@ -5,12 +5,12 @@
 ### <font color="#FBBF24">Software Engineer · Full-Stack Developer · AI & Machine Learning Engineer</font>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=false&width=750&height=50&lines=Software+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+AI+%26+ML+Engineer" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable_Systems-B45309?style=for-the-badge&labelColor=1F1915&color=D97706" />
-  <img src="https://img.shields.io/badge/Domain-Full_Stack_%26_AI-B45309?style=for-the-badge&labelColor=1F1915&color=D97706" />
+  <img src="https://img.shields.io/badge/Building-Things_That_Work-B45309?style=for-the-badge&labelColor=1F1915&color=D97706" />
+  <img src="https://img.shields.io/badge/Always-Learning_%26_Debugging-B45309?style=for-the-badge&labelColor=1F1915&color=D97706" />
 </p>
 
 </div>
@@ -19,11 +19,11 @@
 
 ## <font color="#D97706">About Me</font>
 
-I'm a **Software Engineer** dedicated to building clean, scalable, and high-performance applications from end to end. My core expertise spans **Full-Stack Web Development**, **System Architecture**, and **Machine Learning**.
+Hi! I'm a software developer who enjoys turning messy problems into clean, practical code. Most days you'll find me working across the full stack, diving into system design, or training machine learning models.
 
-* Deepening expertise in **Advanced Software Engineering & Distributed Systems**.
-* Certified in **Huawei Network Engineering** (routing, switching, and network infrastructure fundamentals).
-* Focused on crafting clean code, secure authentication patterns, and data-driven applications.
+* Currently spending time on **Advanced Software Engineering & Distributed Systems**.
+* Background in **Huawei Network Engineering** (routing, switching, and networking foundations).
+* Big fan of clear code, reliable auth flows, and building tools people actually like using.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a547-11eb-85ee-3a74364113c9.gif" width="100%" />
 
@@ -43,17 +43,17 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a547-11eb-85ee-3a74364113c9.gif" width="100%" />
 
-## <font color="#D97706">Selected Projects</font>
+## <font color="#D97706">Featured Projects</font>
 
 <div align="center">
 
-| Project | Description | Tech Stack |
+| Project | What It Is | Built With |
 | :--- | :--- | :--- |
-| **Play2Learn** | Interactive learning platform designed to make education engaging through gamification. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> |
-| **HealthPlate** | Nutrition tracking application designed to help users make healthier dietary choices. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" /> |
-| **Forkify** | Recipe discovery and custom adjustment engine powered by an external API. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
-| **Passkeys** | Modern, passwordless WebAuthn authentication implementation for secure access. | <img src="https://img.shields.io/badge/Web_Security-D97706?style=flat-square&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/Passkeys-B45309?style=flat-square&logo=authy&logoColor=white" /> |
-| **FutureAir** | Environmental forecasting model predicting air quality metrics from historical data. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> |
+| **Play2Learn** | Gamified platform designed to make learning interactive and fun for kids. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> |
+| **HealthPlate** | Simple tracker to help users stay mindful of their daily nutrition and meals. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" /> |
+| **Forkify** | Recipe lookup app with custom ingredient and serving size calculations. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
+| **Passkeys** | Clean implementation of WebAuthn for secure, passwordless user authentication. | <img src="https://img.shields.io/badge/Web_Security-D97706?style=flat-square&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/Passkeys-B45309?style=flat-square&logo=authy&logoColor=white" /> |
+| **FutureAir** | Predictive air quality forecasting model trained on historical atmospheric data. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> |
 
 </div>
 
@@ -62,7 +62,7 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=18&pause=1500&color=FBBF24&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Build+simply.+Think+deeply.+Grow+consistently." alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=18&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Build+simply.+Think+deeply.+Grow+consistently." alt="Footer Typing SVG" />
 </a>
 
 <br/><br/>
