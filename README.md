@@ -140,7 +140,7 @@ I've applied these skills in projects such as **FutureAir**, exploring forecasti
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=9B8AFB&text_color=E8E6F0&icon_color=F28BA8" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=boboshaline&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=9B8AFB&text_color=E8E6F0&icon_color=F28BA8" />
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B0B14&title_color=9B8AFB&text_color=E8E6F0" />
 
@@ -154,6 +154,6 @@ I've applied these skills in projects such as **FutureAir**, exploring forecasti
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=9B8AFB&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=boboshaline&label=Profile%20Views&color=9B8AFB&style=flat-square" />
 
 </div>
