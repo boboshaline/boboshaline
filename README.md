@@ -11,7 +11,7 @@
 
 <!-- Dynamic Subtitle (Types continuously) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Software Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Engineer" alt="Title Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Engineer" alt="Title Typing SVG" />
 </a>
 
 <br/>
