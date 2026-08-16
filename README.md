@@ -1,35 +1,35 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Hi, I'm Shaline Wambui
+# <font color="#9B8AFB">Shaline Wambui</font>
 
 ### **Software Engineer · Full-Stack Developer · AI & Machine Learning**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7768E&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%9C%A8+Building+scalable+%26+intuitive+systems;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%F0%9F%8C%90+Networking+%26+Infrastructure+Enthusiast;%F0%9F%92%A1+Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=9B8AFB&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Software+Engineer+%7C+Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+scalable+%26+intuitive+systems;Network+Engineering+%26+Infrastructure;Always+learning.+Always+building." alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://github.com/boboshaline">
-    <img src="https://img.shields.io/github/followers/boboshaline?label=Followers&logo=github&style=for-the-badge&color=BB9AF7&labelColor=1A1B26" />
+    <img src="https://img.shields.io/github/followers/boboshaline?label=Followers&style=for-the-badge&color=9B8AFB&labelColor=1A1128" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=boboshaline&label=Profile%20Views&color=7AA2F7&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=boboshaline&label=Profile%20Views&color=9B8AFB&style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## <font color="#9B8AFB">About Me</font>
 
-I'm a **Software Engineer** dedicated to building clean, scalable, and high-performance applications from end to end. My core expertise spans **Full-Stack Web Development**, **System Architecture**, and **Machine Learning**. 
+I'm a **Software Engineer** dedicated to building clean, scalable, and high-performance applications from end to end. My core expertise spans **Full-Stack Web Development**, **System Architecture**, and **Machine Learning**.
 
-* 🎓 Deepening my expertise in **Advanced Software Engineering & Distributed Systems**.
-* 🌐 Certified in **Huawei Network Engineering** (routing, switching, and network infrastructure fundamentals).
-* 💡 Focused on crafting clean code, secure authentication patterns, and data-driven applications.
+* Deepening expertise in **Advanced Software Engineering & Distributed Systems**.
+* Certified in **Huawei Network Engineering** (routing, switching, and network infrastructure fundamentals).
+* Focused on crafting clean code, secure authentication patterns, and data-driven applications.
 
 ---
 
-## 🛠️ Tech Stack & Skillset
+## <font color="#9B8AFB">Tech Stack & Skillset</font>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -41,32 +41,32 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 ---
 
-## 🚀 Selected Projects
+## <font color="#9B8AFB">Selected Projects</font>
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🎮 Play2Learn** | Interactive learning platform designed to make education engaging through gamification. | `React` `Node.js` `Express` |
-| **🥗 HealthPlate** | Nutrition tracking application designed to help users make healthier dietary choices. | `React` `REST API` |
-| **🍴 Forkify** | Recipe discovery and custom adjustment engine powered by an external API. | `JavaScript` `REST API` `CSS3` |
-| **🔐 Passkeys** | Modern, passwordless WebAuthn authentication implementation for secure access. | `Web Security` `Passkeys` |
-| **🌤️ FutureAir** | Environmental forecasting model predicting air quality metrics from historical data. | `Python` `XGBoost` `Pandas` |
+| **Play2Learn** | Interactive learning platform designed to make education engaging through gamification. | `React` `Node.js` `Express` |
+| **HealthPlate** | Nutrition tracking application designed to help users make healthier dietary choices. | `React` `REST API` |
+| **Forkify** | Recipe discovery and custom adjustment engine powered by an external API. | `JavaScript` `REST API` `CSS3` |
+| **Passkeys** | Modern, passwordless WebAuthn authentication implementation for secure access. | `Web Security` `Passkeys` |
+| **FutureAir** | Environmental forecasting model predicting air quality metrics from historical data. | `Python` `XGBoost` `Pandas` |
 
 </div>
 
 ---
 
-## 📈 GitHub Activity & Stats
+## <font color="#9B8AFB">GitHub Activity & Stats</font>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api?username=boboshaline&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shaline's GitHub Stats" />
-<img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api/top-langs/?username=boboshaline&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=boboshaline&show_icons=true&title_color=9B8AFB&icon_color=9B8AFB&text_color=E8E6F0&bg_color=0B0B14&hide_border=true&count_private=true" alt="Shaline's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboshaline&layout=compact&title_color=9B8AFB&text_color=E8E6F0&bg_color=0B0B14&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boboshaline&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=boboshaline&background=0B0B14&border=9B8AFB&stroke=9B8AFB&ring=9B8AFB&fire=9B8AFB&currStreakNum=E8E6F0&sideNums=E8E6F0&sideTitle=9B8AFB&currStreakLabel=9B8AFB&dates=E8E6F0&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -74,6 +74,8 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 <div align="center">
 
-### ✧ *Build simply. Think deeply. Grow consistently.* ✧
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&pause=2000&color=9B8AFB&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Build+simply.+Think+deeply.+Grow+consistently." alt="Footer Typing SVG" />
+</a>
 
 </div>
