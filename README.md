@@ -6,13 +6,10 @@
 
 <!-- Main Title (Types once and stays fixed) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=false&width=750&height=40&lines=Software+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+AI+%26+ML+Engineer" alt="Title Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=True&width=750&height=40&lines=Software+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+AI+%26+ML+Engineer" alt="Title Typing SVG" />
 </a>
 
-<!-- Rotating Subtitle (Animates continuously) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=600&size=16&pause=1200&color=D97706&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Building+scalable+full-stack+applications;Exploring+AI+%26+machine+learning;Crafting+clean+and+efficient+code" alt="Subtitle Typing SVG" />
-</a>
+
 
 <br/>
 
