@@ -142,7 +142,7 @@ I've applied these skills in projects such as **FutureAir**, exploring forecasti
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=boboshaline&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=9B8AFB&text_color=E8E6F0&icon_color=F28BA8" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B0B14&title_color=9B8AFB&text_color=E8E6F0" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboshaline&layout=compact&hide_border=true&bg_color=0B0B14&title_color=9B8AFB&text_color=E8E6F0" />
 
 </div>
 
