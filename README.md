@@ -56,7 +56,17 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/boboshaline?template=classic&base=header%2C%20activity%2C%20community&config.timezone=UTC&theme=dark" width="600" alt="GitHub Metrics" />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/boboshaline?label=Followers&style=for-the-badge&color=9B8AFB&labelColor=0B0B14" />
+  <img src="https://img.shields.io/github/stars/boboshaline?label=Total%20Stars&style=for-the-badge&color=9B8AFB&labelColor=0B0B14" />
+  <img src="https://img.shields.io/github/repo-size/boboshaline/boboshaline?label=Profile%20Size&style=for-the-badge&color=9B8AFB&labelColor=0B0B14" />
+</p>
+
+<br/>
+
+<a href="https://github.com/boboshaline">
+  <img width="85%" src="https://capsule-render.vercel.app/api?type=waving&color=9B8AFB&height=120&section=header&text=Full-Stack%20%7C%20AI%20%26%20ML%20%7C%20Networking&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Header Graphic" />
+</a>
 
 </div>
 
