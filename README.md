@@ -1,148 +1,72 @@
 <div align="center">
 
-# ✦ Hi, I'm Shaline Wambui
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> Hi, I'm Shaline Wambui
 
-### Software Engineer · Full-Stack Developer · AI & Machine Learning
+### **Software Engineer · Full-Stack Developer · AI & Machine Learning**
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&pause=1100&color=9B8AFB&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+simple+%26+scalable+systems;Always+learning.+Always+building." />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7768E&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%E2%9C%A8+Building+scalable+%26+intuitive+systems;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning;%F0%9F%8C%90+Networking+%26+Infrastructure+Enthusiast;%F0%9F%92%A1+Always+learning.+Always+building." alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/boboshaline">
+    <img src="https://img.shields.io/github/followers/boboshaline?label=Followers&logo=github&style=for-the-badge&color=BB9AF7&labelColor=1A1B26" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=boboshaline&label=Profile%20Views&color=7AA2F7&style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## ✧ About Me
+## ⚡ About Me
 
-I'm a **Software Engineer** focused on building clean, scalable and user-friendly applications, with a strong focus on **full-stack development**.
+I'm a **Software Engineer** dedicated to building clean, scalable, and high-performance applications from end to end. My core expertise spans **Full-Stack Web Development**, **System Architecture**, and **Machine Learning**. 
 
-I work across **frontend, backend, APIs, databases and machine learning**, with an interest in building reliable systems from end to end.
-
-I also have training in **Huawei Network Engineering**, strengthening my understanding of **routing, switching, network systems and infrastructure fundamentals**.
-
----
-
-## ✦ What I Do
-
-### ◇ Software Engineering
-
-Designing and developing reliable, maintainable software systems.
-
-`JavaScript` · `TypeScript` · `Python` · `Git`
-
-### ◇ Full-Stack Development
-
-Building applications across the frontend, backend and database layers.
-
-`React` · `Node.js` · `Express` · `REST APIs`
-
-### ◇ AI & Machine Learning
-
-Exploring data-driven models and practical machine-learning applications.
-
-`Python` · `Scikit-learn` · `Pandas` · `NumPy` · `XGBoost`
-
-### ◇ Networking
-
-Huawei-certified training in foundational network engineering.
-
-`Routing` · `Switching` · `Network Fundamentals`
+* 🎓 Deepening my expertise in **Advanced Software Engineering & Distributed Systems**.
+* 🌐 Certified in **Huawei Network Engineering** (routing, switching, and network infrastructure fundamentals).
+* 💡 Focused on crafting clean code, secure authentication patterns, and data-driven applications.
 
 ---
 
-## ✦ Tech Stack
+## 🛠️ Tech Stack & Skillset
 
-### Languages
-
-`Python` · `JavaScript` · `TypeScript` · `C++` · `HTML` · `CSS`
-
-### Frontend
-
-`React` · `Tailwind CSS`
-
-### Backend
-
-`Node.js` · `Express`
-
-### Databases
-
-`PostgreSQL` · `MongoDB` · `Firebase`
-
-### AI / ML
-
-`Scikit-learn` · `Pandas` · `NumPy` · `XGBoost`
-
-### Tools
-
-`Git` · `GitHub` · `VS Code`
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> |
+| **Backend & Databases** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" /> |
+| **AI / Machine Learning** | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=xgboost&logoColor=white" /> |
+| **Tools & Infrastructure** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Huawei_Networking-C7000B?style=for-the-badge&logo=huawei&logoColor=white" /> |
 
 ---
 
-## ✦ Selected Projects
-
-### 🎮 Play2Learn
-
-Interactive learning platform designed to make education more engaging.
-
-`React` · `Node.js` · `Express`
-
----
-
-### 🥗 HealthPlate
-
-Nutrition-focused application designed to support healthier food decisions.
-
-`React` · `API Integration`
-
----
-
-### 🍴 Forkify
-
-Recipe search and discovery application powered by a REST API.
-
-`JavaScript` · `REST API`
-
----
-
-### 🔐 Passkeys
-
-Exploring modern passwordless authentication and secure user experiences.
-
-`Web Security` · `Authentication`
-
----
-
-## ✦ AI & Machine Learning
-
-My AI/ML work focuses on **practical data analysis, predictive modelling and experimentation**.
-
-I've applied these skills in projects such as **FutureAir**, exploring forecasting and data-driven insights.
-
-### Core Areas
-
-`Data Analysis` · `Regression` · `Classification` · `Forecasting`
-
-### Tools
-
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost`
-
----
-
-## ✦ Learning Focus
-
-`Advanced Software Engineering` · `Full-Stack Development`
-
-`Machine Learning` · `Network Engineering`
-
-`Secure System Design` · `Modern Authentication`
-
----
-
-## ✦ GitHub Stats
+## 🚀 Selected Projects
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=boboshaline&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=9B8AFB&text_color=E8E6F0&icon_color=F28BA8" />
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🎮 Play2Learn** | Interactive learning platform designed to make education engaging through gamification. | `React` `Node.js` `Express` |
+| **🥗 HealthPlate** | Nutrition tracking application designed to help users make healthier dietary choices. | `React` `REST API` |
+| **🍴 Forkify** | Recipe discovery and custom adjustment engine powered by an external API. | `JavaScript` `REST API` `CSS3` |
+| **🔐 Passkeys** | Modern, passwordless WebAuthn authentication implementation for secure access. | `Web Security` `Passkeys` |
+| **🌤️ FutureAir** | Environmental forecasting model predicting air quality metrics from historical data. | `Python` `XGBoost` `Pandas` |
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboshaline&layout=compact&hide_border=true&bg_color=0B0B14&title_color=9B8AFB&text_color=E8E6F0" />
+</div>
+
+---
+
+## 📈 GitHub Activity & Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api?username=boboshaline&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shaline's GitHub Stats" />
+<img height="180" src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api/top-langs/?username=boboshaline&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=boboshaline&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -150,10 +74,6 @@ I've applied these skills in projects such as **FutureAir**, exploring forecasti
 
 <div align="center">
 
-### ✧ Build simply. Think deeply. Grow consistently. ✧
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=boboshaline&label=Profile%20Views&color=9B8AFB&style=flat-square" />
+### ✧ *Build simply. Think deeply. Grow consistently.* ✧
 
 </div>
