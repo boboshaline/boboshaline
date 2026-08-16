@@ -52,10 +52,6 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 ---
 
-
-
----
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
