@@ -2,18 +2,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B45309&height=200&section=header&text=Shaline%20Wambui&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%" />
 
-### <font color="#FBBF24">Software Engineer · Full-Stack Developer · AI & Machine Learning Engineer</font>
+<!-- Static Main Title (Fixed in place) -->
+<h3 align="center">
+  <font face="Bookman Old Style" color="#FBBF24" size="5">
+    Software Engineer
+  </font>
+</h3>
 
-<!-- Main Title (Types once and stays fixed) -->
+<!-- Dynamic Subtitle (Types continuously) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=True&width=750&height=40&lines=Software+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+AI+%26+ML+Engineer" alt="Title Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=true&width=750&height=40&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Engineer" alt="Title Typing SVG" />
 </a>
-
-
 
 <br/>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Things_That_Work-B45309?style=for-the-badge&labelColor=1F1915&color=D97706" />
+  <img src="https://img.shields.io/badge/Always-Learning_%26_Debugging-B45309?style=for-the-badge&labelColor=1F1915&color=D97706" />
+</p>
 
 </div>
 
