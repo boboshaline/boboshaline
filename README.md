@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B8AFB&height=200&section=header&text=Shaline%20Wambui&fontSize=42&fontColor=0B0B14&animation=twinkling&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B45309&height=200&section=header&text=Shaline%20Wambui&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%" />
 
-### <font color="#C4B5FD">Software Engineer · Full-Stack Developer · AI & Machine Learning</font>
+### <font color="#FBBF24">Software Engineer · Full-Stack Developer · AI & Machine Learning</font>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=800&color=9B8AFB&center=true&vCenter=true&repeat=true&width=750&height=60&lines=%E2%9C%A8+Software+Engineer+%7C+Full-Stack+Developer;%E2%9A%A1+AI+%26+Machine+Learning+Engineer;%F0%9F%92%A1+Building+scalable+%26+intuitive+systems;%F0%9F%8C%90+Network+Engineering+%26+Infrastructure;%F0%9F%9A%80+Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable_Systems-9B8AFB?style=for-the-badge&labelColor=0B0B14&color=9B8AFB" />
-  <img src="https://img.shields.io/badge/Domain-Full_Stack_%26_AI-9B8AFB?style=for-the-badge&labelColor=0B0B14&color=9B8AFB" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_Systems-B45309?style=for-the-badge&labelColor=1F1915&color=D97706" />
+  <img src="https://img.shields.io/badge/Domain-Full_Stack_%26_AI-B45309?style=for-the-badge&labelColor=1F1915&color=D97706" />
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a547-11eb-85ee-3a74364113c9.gif" width="100%" />
 
-## <font color="#9B8AFB">About Me</font>
+## <font color="#D97706">About Me</font>
 
 I'm a **Software Engineer** dedicated to building clean, scalable, and high-performance applications from end to end. My core expertise spans **Full-Stack Web Development**, **System Architecture**, and **Machine Learning**.
 
@@ -27,7 +27,7 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a547-11eb-85ee-3a74364113c9.gif" width="100%" />
 
-## <font color="#9B8AFB">Tech Stack & Skillset</font>
+## <font color="#D97706">Tech Stack & Skillset</font>
 
 <div align="center">
 
@@ -43,7 +43,7 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a547-11eb-85ee-3a74364113c9.gif" width="100%" />
 
-## <font color="#9B8AFB">Selected Projects</font>
+## <font color="#D97706">Selected Projects</font>
 
 <div align="center">
 
@@ -62,11 +62,11 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=17&pause=1500&color=9B8AFB&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Build+simply.+Think+deeply.+Grow+consistently." alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1500&color=FBBF24&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Build+simply.+Think+deeply.+Grow+consistently." alt="Footer Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B8AFB&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B45309&height=100&section=footer" width="100%" />
 
 </div>
