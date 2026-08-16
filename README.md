@@ -52,18 +52,11 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 ---
 
-## <font color="#9B8AFB">GitHub Activity & Stats</font>
+## <font color="#9B8AFB">Developer Profile Summary</font>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=boboshaline&show_icons=true&title_color=9B8AFB&icon_color=9B8AFB&text_color=E8E6F0&bg_color=0B0B14&hide_border=true&count_private=true" alt="Shaline's GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boboshaline&layout=compact&title_color=9B8AFB&text_color=E8E6F0&bg_color=0B0B14&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boboshaline&bg_color=0B0B14&color=9B8AFB&line=9B8AFB&point=E8E6F0&area=true&hide_border=true" alt="Shaline's GitHub Activity Graph" />
-</a>
+<img src="https://metrics.lecoq.io/boboshaline?template=classic&base=header%2C%20activity%2C%20community&config.timezone=UTC&theme=dark" width="600" alt="GitHub Metrics" />
 
 </div>
 
