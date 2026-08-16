@@ -5,7 +5,7 @@
 ### <font color="#FBBF24">Software Engineer · Full-Stack Developer · AI & Machine Learning Engineer</font>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -33,11 +33,11 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> |
-| **Backend & Databases** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" /> |
-| **AI / Machine Learning** | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=xgboost&logoColor=white" /> |
-| **Tools & Infrastructure** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Huawei_Networking-C7000B?style=for-the-badge&logo=huawei&logoColor=white" /> |
+| **Languages** | <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> |
+| **Frontend** | <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a> <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> |
+| **Backend & Databases** | <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" /></a> |
+| **AI / Machine Learning** | <a href="#"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=xgboost&logoColor=white" /></a> |
+| **Tools & Infrastructure** | <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Huawei_Networking-C7000B?style=for-the-badge&logo=huawei&logoColor=white" /></a> |
 
 </div>
 
@@ -49,11 +49,11 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Play2Learn** | Interactive learning platform designed to make education engaging through gamification. | `React` `Node.js` `Express` |
-| **HealthPlate** | Nutrition tracking application designed to help users make healthier dietary choices. | `React` `REST API` |
-| **Forkify** | Recipe discovery and custom adjustment engine powered by an external API. | `JavaScript` `REST API` `CSS3` |
-| **Passkeys** | Modern, passwordless WebAuthn authentication implementation for secure access. | `Web Security` `Passkeys` |
-| **FutureAir** | Environmental forecasting model predicting air quality metrics from historical data. | `Python` `XGBoost` `Pandas` |
+| **Play2Learn** | Interactive learning platform designed to make education engaging through gamification. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> |
+| **HealthPlate** | Nutrition tracking application designed to help users make healthier dietary choices. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" /> |
+| **Forkify** | Recipe discovery and custom adjustment engine powered by an external API. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
+| **Passkeys** | Modern, passwordless WebAuthn authentication implementation for secure access. | <img src="https://img.shields.io/badge/Web_Security-D97706?style=flat-square&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/Passkeys-B45309?style=flat-square&logo=authy&logoColor=white" /> |
+| **FutureAir** | Environmental forecasting model predicting air quality metrics from historical data. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> |
 
 </div>
 
@@ -62,7 +62,7 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and high-perf
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1500&color=FBBF24&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Build+simply.+Think+deeply.+Grow+consistently." alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bookman+Old+Style&weight=700&size=18&pause=1500&color=FBBF24&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Build+simply.+Think+deeply.+Grow+consistently." alt="Footer Typing SVG" />
 </a>
 
 <br/><br/>
