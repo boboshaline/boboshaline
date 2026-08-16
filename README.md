@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B45309&height=200&section=header&text=Shaline%20Wambui&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%" />
 
-### <font color="#FBBF24">Software Engineer · Full-Stack Developer · AI & Machine Learning</font>
+### <font color="#FBBF24">Software Engineer · Full-Stack Developer · AI & Machine Learning Engineer</font>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning Engineer" alt="Typing SVG" />
 </a>
 
 <p align="center">
